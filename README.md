@@ -22,12 +22,12 @@ Group Project
 
 【SettingViewModel.swift】
 アプリ内のデータを削除するモデルです。
-</br>1.<picture>
+</br><b>パスワード更新・削除</b></br><picture>
   <img src="image/Demo4.png" width="405">
 </picture>
-</br>2.<picture>
+</br><b>確認</b></br><picture>
   <img src="image/Demo5.png" width="405">
 </picture>
-</br>3.<picture>
+</br><b>パスワード削除後</b></br><picture>
   <img src="image/Demo6.png" width="405">
 </picture>
